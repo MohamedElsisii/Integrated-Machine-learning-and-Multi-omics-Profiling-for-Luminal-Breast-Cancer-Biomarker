@@ -1,4 +1,4 @@
-# README: Integrated Machine-learning and Multi-omics Profiling for Luminal Breast Cancer Biomarker Identification Pipeline
+Integrated Machine-learning and Multi-omics Profiling for Luminal Breast Cancer Biomarker Identification Pipeline
 ![Integrated machine-learning and multi-omics profiling for luminal breast cancer biomarker identification_page-0001](https://github.com/user-attachments/assets/a4ad48d6-bec8-4247-8cf9-96ea91a4c134)
 
 ## Execution Order & Description
